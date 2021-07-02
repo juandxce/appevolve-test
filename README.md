@@ -1,3 +1,7 @@
+# Description
+Pixel-perfect copy of the figma designs, I mainly focused on the "important" parts of the pages.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
